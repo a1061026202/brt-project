@@ -1,0 +1,7 @@
+2022-07-05 22:33:59 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 16.398 seconds (JVM running for 18.987)
+2022-07-05 22:34:16 [INFO ] http-nio-8130-exec-1 fileServiceImp.java:39 com.atguigu.srb.oss.service.Imp.fileServiceImp buckName不存在,正在创建
+2022-07-05 22:34:17 [INFO ] http-nio-8130-exec-1 fileServiceImp.java:70 com.atguigu.srb.oss.service.Imp.fileServiceImp 结果: com.qcloud.cos.model.UploadResult@2aa5b4d5
+2022-07-05 22:34:23 [INFO ] http-nio-8130-exec-2 fileServiceImp.java:39 com.atguigu.srb.oss.service.Imp.fileServiceImp buckName不存在,正在创建
+2022-07-05 22:34:24 [INFO ] http-nio-8130-exec-2 fileServiceImp.java:70 com.atguigu.srb.oss.service.Imp.fileServiceImp 结果: com.qcloud.cos.model.UploadResult@67a34d81
+2022-07-05 22:34:27 [INFO ] http-nio-8130-exec-3 fileServiceImp.java:39 com.atguigu.srb.oss.service.Imp.fileServiceImp buckName不存在,正在创建
+2022-07-05 22:34:27 [INFO ] http-nio-8130-exec-3 fileServiceImp.java:70 com.atguigu.srb.oss.service.Imp.fileServiceImp 结果: com.qcloud.cos.model.UploadResult@2a7234ba

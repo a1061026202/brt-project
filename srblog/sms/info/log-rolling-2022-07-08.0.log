@@ -1,0 +1,7 @@
+2022-07-07 17:09:24 [DEBUG] http-nio-8120-exec-2 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] transfer-encoding: chunked
+2022-07-07 17:09:24 [DEBUG] http-nio-8120-exec-2 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] 
+2022-07-07 17:09:24 [DEBUG] http-nio-8120-exec-2 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] false
+2022-07-07 17:09:24 [DEBUG] http-nio-8120-exec-2 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] <--- END HTTP (5-byte body)
+2022-07-07 17:09:24 [INFO ] http-nio-8120-exec-2 ApiSmsController.java:55 com.atguigu.srb.sms.controller.ApiSmsController 验证码是: 3189
+2022-07-08 22:56:00 [INFO ] main SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2022-07-08 22:56:10 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 15.549 seconds (JVM running for 18.53)

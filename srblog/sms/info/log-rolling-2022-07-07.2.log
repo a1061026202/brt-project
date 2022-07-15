@@ -1,0 +1,7 @@
+2022-07-07 17:09:23 [DEBUG] http-nio-8120-exec-2 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] ---> GET http://service-core/api/core/userInfo/checkMobile/15938564782 HTTP/1.1
+2022-07-07 17:09:23 [DEBUG] http-nio-8120-exec-2 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] ---> END HTTP (0-byte body)
+2022-07-07 17:09:24 [DEBUG] http-nio-8120-exec-2 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] <--- HTTP/1.1 200 (1641ms)
+2022-07-07 17:09:24 [DEBUG] http-nio-8120-exec-2 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] connection: keep-alive
+2022-07-07 17:09:24 [DEBUG] http-nio-8120-exec-2 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] content-type: application/json
+2022-07-07 17:09:24 [DEBUG] http-nio-8120-exec-2 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] date: Thu, 07 Jul 2022 09:09:24 GMT
+2022-07-07 17:09:24 [DEBUG] http-nio-8120-exec-2 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] keep-alive: timeout=60

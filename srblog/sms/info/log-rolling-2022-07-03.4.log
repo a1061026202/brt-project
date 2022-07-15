@@ -1,0 +1,3 @@
+2022-07-03 16:43:26 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 16.416 seconds (JVM running for 18.614)
+2022-07-03 22:28:18 [INFO ] main SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2022-07-03 22:28:27 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 15.28 seconds (JVM running for 18.196)

@@ -1,0 +1,6 @@
+2022-06-21 17:14:58 [INFO ] main StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on DESKTOP-JJE0IFA with PID 13484 (E:\JavaProject\shanronbao\service-core\target\classes started by Mr HE in E:\JavaProject\shanronbao)
+2022-06-21 17:14:58 [INFO ] main SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2022-06-21 17:15:03 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.674 seconds (JVM running for 7.54)
+2022-06-21 17:15:12 [INFO ] http-nio-8110-exec-1 AdminIntegralGradeController.java:38 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController info========
+2022-06-21 17:15:12 [ERROR] http-nio-8110-exec-1 AdminIntegralGradeController.java:39 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController error======
+2022-06-21 17:15:12 [WARN ] http-nio-8110-exec-1 AdminIntegralGradeController.java:40 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warn=======
