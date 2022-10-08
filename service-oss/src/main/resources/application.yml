@@ -16,7 +16,7 @@ spring:
 
 txy:
   oss:
-    endpoint: cos.ap-guangzhou.myqcloud.com
-    secret-id: AKIDsW5PRgXdHdi1906kw1tT2bOA2c07nuXS
-    bucket-name: srb-1253645988
-    secret-key: x7lHYswkHO3TcWR6UcitnQn5YkgURFnf
+    endpoint: 
+    secret-id: 
+    bucket-name: 
+    secret-key: 
