@@ -8,10 +8,10 @@ spring:
     name: service-sms
 
   redis:
-    host: 159.75.118.217
+    host: 
     port: 6379
     database: 0
-    password: heyihao
+    password: 
     timeout: 6000ms
     lettuce:
       pool:
@@ -23,21 +23,21 @@ spring:
   cloud:
     nacos:
       discovery:
-        server-addr: 159.75.118.217:8848 # nacos服务地址
+        server-addr:  # nacos服务地址
 
   rabbitmq:
-    addresses: 159.75.118.217
+    addresses: 
     port: 5672
-    virtual-host: /srbhost
-    username: srb
-    password: heyihao
+    virtual-host: 
+    username: 
+    password: 
 
 #容联云
 ronglianyun:
   sms:
-    account-id: 8a216da881ad97540181ae18dac00007
-    auth-token: f12f8019dc3e4be1b8b2603f9ae2c16d
-    app-id: 8a216da881ad97540181ae18dc25000e
+    account-id: 
+    auth-token: 
+    app-id: 
     template-id: 1
     server-ip: app.cloopen.com
     server-port: 8883
