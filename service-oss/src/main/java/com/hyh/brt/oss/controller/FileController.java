@@ -1,9 +1,8 @@
-package com.atguigu.srb.oss.controller;
+package com.hyh.brt.oss.controller;
 
-import com.atguigu.common.exception.BusinessException;
-import com.atguigu.common.result.R;
-import com.atguigu.common.result.ResponseEnum;
-import com.atguigu.srb.oss.service.fileService;
+import com.hyh.common.exception.BusinessException;
+import com.hyh.common.result.R;
+import com.hyh.common.result.ResponseEnum;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;
@@ -21,7 +20,7 @@ import java.io.InputStream;
 public class FileController {
 
     @Resource
-    private fileService fileService;
+    private com.hyh.brt.oss.service.fileService fileService;
 
     @ApiOperation("文件上传")
     @PostMapping("/upload")

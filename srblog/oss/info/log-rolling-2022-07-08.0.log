@@ -1,8 +1,0 @@
-2022-07-05 22:59:11 [INFO ] http-nio-8130-exec-9 fileServiceImp.java:70 com.atguigu.srb.oss.service.Imp.fileServiceImp 结果: com.qcloud.cos.model.UploadResult@78ac2327
-2022-07-05 22:59:14 [INFO ] http-nio-8130-exec-8 fileServiceImp.java:39 com.atguigu.srb.oss.service.Imp.fileServiceImp buckName不存在,正在创建
-2022-07-05 22:59:15 [INFO ] http-nio-8130-exec-8 fileServiceImp.java:70 com.atguigu.srb.oss.service.Imp.fileServiceImp 结果: com.qcloud.cos.model.UploadResult@59449203
-2022-07-06 21:03:02 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev
-2022-07-06 21:03:13 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 18.452 seconds (JVM running for 21.877)
-2022-07-07 15:58:49 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev
-2022-07-07 15:59:07 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 28.855 seconds (JVM running for 32.409)
-2022-07-08 22:55:39 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev

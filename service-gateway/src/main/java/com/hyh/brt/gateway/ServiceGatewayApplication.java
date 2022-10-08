@@ -1,4 +1,4 @@
-package com.atguigu.srb.gateway;
+package com.hyh.brt.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

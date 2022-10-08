@@ -1,4 +1,4 @@
-package com.atguigu.srb.oss.util;
+package com.hyh.brt.oss.util;
 
 import lombok.Data;
 import org.springframework.beans.factory.InitializingBean;

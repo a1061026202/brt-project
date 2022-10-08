@@ -42,19 +42,19 @@
             <div class="ft-serv-handle clearfix">
               <a
                 class="icon-hdSprite icon-ft-sina a-move a-moveHover"
-                title="尚融宝新浪微博"
+                title="呗融通新浪微博"
                 target="_blank"
                 href="#"
               ></a>
               <a
                 class="icon-hdSprite icon-ft-qqweibo a-move a-moveHover"
-                title="尚融宝腾讯微博"
+                title="呗融通腾讯微博"
                 target="_blank"
                 href="#"
               ></a>
               <a
                 class="icon-ft-qun a-move a-moveHover"
-                title="尚融宝QQ群"
+                title="呗融通QQ群"
                 target="_blank"
                 href="#"
               ></a>
@@ -62,19 +62,9 @@
                 class="icon-hdSprite icon-ft-email a-move a-moveHover mrn"
                 title="阳光易贷email"
                 target="_blank"
-                href="mailto:xz@shangrongbao.com"
+                href="mailto:xz@beirongtong.com"
               ></a>
             </div>
-          </dd>
-        </dl>
-      </div>
-      <div class="ft-wap clearfix">
-        <dl>
-          <dt>官方二维码</dt>
-          <dd>
-            <span class="icon-ft-erweima">
-              <img src="~/assets/images/code.png" style="display: inline;" />
-            </span>
           </dd>
         </dl>
       </div>
@@ -91,12 +81,12 @@
         </a>
       </div>
       <div class="ft-identity">
-        ©2020 尚融宝 All rights reserved&nbsp;&nbsp;&nbsp;
+        ©2022 呗融通 All rights reserved&nbsp;&nbsp;&nbsp;
         <span class="color-e6">|</span>&nbsp;&nbsp;&nbsp;
-        北京市尚融宝投资管理有限公司&nbsp;&nbsp;&nbsp;
+        某市呗融通投资管理有限公司&nbsp;&nbsp;&nbsp;
         <span class="color-e6">|</span>&nbsp;&nbsp;&nbsp;
         <a target="_blank" href="http://www.miitbeian.gov.cn/">
-          京ICP备12345678号-1
+          粤ICP备12345678号-1
         </a>
       </div>
     </div>

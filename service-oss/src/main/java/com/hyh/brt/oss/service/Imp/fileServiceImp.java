@@ -1,7 +1,7 @@
-package com.atguigu.srb.oss.service.Imp;
+package com.hyh.brt.oss.service.Imp;
 
-import com.atguigu.srb.oss.service.fileService;
-import com.atguigu.srb.oss.util.OssProperties;
+import com.hyh.brt.oss.service.fileService;
+import com.hyh.brt.oss.util.OssProperties;
 import com.qcloud.cos.COSClient;
 import com.qcloud.cos.ClientConfig;
 import com.qcloud.cos.auth.BasicCOSCredentials;

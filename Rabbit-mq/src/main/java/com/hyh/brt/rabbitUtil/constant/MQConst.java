@@ -1,4 +1,4 @@
-package com.atguigu.srb.rabbitUtil.constant;
+package com.hyh.brt.rabbitUtil.constant;
 
 public class MQConst {
     public static final String EXCHANGE_TOPIC_SMS = "exchange.topic.sms";//交换机

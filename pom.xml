@@ -9,7 +9,7 @@
         <module>service-oss</module>
         <module>service-sms</module>
         <module>service-gateway</module>
-        <module>guigu-common</module>
+        <module>common</module>
         <module>service-gateway</module>
         <module>Rabbit-mq</module>
     </modules>
@@ -19,8 +19,8 @@
         <version>2.3.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.atguigu</groupId>
-    <artifactId>srb</artifactId>
+    <groupId>com.hyh</groupId>
+    <artifactId>brt</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>srb</name>
     <description>Demo project for Spring Boot</description>

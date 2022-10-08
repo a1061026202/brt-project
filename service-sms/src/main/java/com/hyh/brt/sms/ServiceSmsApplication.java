@@ -6,7 +6,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan({"com.atguigu.srb","com.atguigu.common"})
+@ComponentScan({"com.hyh.brt","com.hyh.common"})
 @EnableFeignClients
 public class ServiceSmsApplication {
     public static void main(String[] args) {

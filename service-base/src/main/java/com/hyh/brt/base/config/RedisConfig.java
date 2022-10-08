@@ -1,4 +1,4 @@
-package com.atguigu.srb.base.config;
+package com.hyh.brt.base.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;

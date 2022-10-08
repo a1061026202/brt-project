@@ -1,11 +1,11 @@
 package com.hyh.brt.core.controller.api;
 
 
-import com.atguigu.common.exception.Assert;
-import com.atguigu.common.result.R;
-import com.atguigu.common.result.ResponseEnum;
-import com.atguigu.common.util.RegexValidateUtils;
-import com.atguigu.srb.base.util.JwtUtils;
+import com.hyh.common.exception.Assert;
+import com.hyh.common.result.R;
+import com.hyh.common.result.ResponseEnum;
+import com.hyh.common.util.RegexValidateUtils;
+import com.hyh.brt.base.util.JwtUtils;
 import com.hyh.brt.core.pojo.vo.LoginVo;
 import com.hyh.brt.core.pojo.vo.RegisterVo;
 import com.hyh.brt.core.pojo.vo.UserIndexVo;

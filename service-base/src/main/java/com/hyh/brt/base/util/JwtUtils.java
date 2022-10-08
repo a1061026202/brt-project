@@ -1,7 +1,7 @@
-package com.atguigu.srb.base.util;
+package com.hyh.brt.base.util;
 
-import com.atguigu.common.exception.BusinessException;
-import com.atguigu.common.result.ResponseEnum;
+import com.hyh.common.exception.BusinessException;
+import com.hyh.common.result.ResponseEnum;
 import io.jsonwebtoken.*;
 import org.springframework.util.StringUtils;
 

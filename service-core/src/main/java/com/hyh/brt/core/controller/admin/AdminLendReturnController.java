@@ -1,6 +1,6 @@
 package com.hyh.brt.core.controller.admin;
 
-import com.atguigu.common.result.R;
+import com.hyh.common.result.R;
 import com.hyh.brt.core.pojo.entity.LendReturn;
 import com.hyh.brt.core.service.LendReturnService;
 import io.swagger.annotations.Api;

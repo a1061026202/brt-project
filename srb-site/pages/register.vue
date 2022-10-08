@@ -46,7 +46,7 @@
 
           <li class="agree">
             <input type="checkbox" checked />
-            我同意《<NuxtLink to="#" target="_black">尚融宝注册协议</NuxtLink>》
+            我同意《<NuxtLink to="#" target="_black">呗融通注册协议</NuxtLink>》
             <span>请查看协议</span>
           </li>
           <li class="btn">

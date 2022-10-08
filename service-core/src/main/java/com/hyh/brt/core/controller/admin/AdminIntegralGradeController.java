@@ -1,9 +1,9 @@
 package com.hyh.brt.core.controller.admin;
 
 
-import com.atguigu.common.exception.Assert;
-import com.atguigu.common.result.R;
-import com.atguigu.common.result.ResponseEnum;
+import com.hyh.common.exception.Assert;
+import com.hyh.common.result.R;
+import com.hyh.common.result.ResponseEnum;
 import com.hyh.brt.core.pojo.entity.IntegralGrade;
 import com.hyh.brt.core.service.IntegralGradeService;
 import io.swagger.annotations.Api;

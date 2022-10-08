@@ -1,9 +1,9 @@
 package com.hyh.brt.core.controller.admin;
 
 import com.alibaba.excel.EasyExcel;
-import com.atguigu.common.exception.BusinessException;
-import com.atguigu.common.result.R;
-import com.atguigu.common.result.ResponseEnum;
+import com.hyh.common.exception.BusinessException;
+import com.hyh.common.result.R;
+import com.hyh.common.result.ResponseEnum;
 import com.hyh.brt.core.pojo.dto.ExcelDictDTO;
 import com.hyh.brt.core.pojo.entity.Dict;
 import com.hyh.brt.core.service.DictService;

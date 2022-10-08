@@ -3,11 +3,11 @@
     <div class="text-content" id="text-content">
       <h1 class="title">法律声明</h1>
       <p class="mt20 cn_line mt5">
-        本声明包含访问和使用尚融宝（<a href="http://www.shangrongbao.com/"
-          >www.shangrongbao.com</a
+        本声明包含访问和使用呗融通（<a href="http://www.beirongtong.com/"
+          >www.beirongtong.com</a
         >）的有关注意事项，在您访问和使用本网站之前，请务必仔细阅读本声明。
-        您若要访问和使用本网站（<a href="http://www.shangrongbao.com"
-          >www.shangrongbao.com</a
+        您若要访问和使用本网站（<a href="http://www.beirongtong.com"
+          >www.beirongtong.com</a
         >），请务必仔细阅读本声明中所包含的条款和本网站即时刊登的通告，并且遵守有关互联网及/或本网站的相关法律、规定与规则。若您不同意本声明内容，建议立即离开本网站。一旦您访问、使用了本网站，即视为您同意并接受了所有该等条款及通告。
       </p>
       <p class="cn_line">
@@ -129,7 +129,7 @@
       </p>
       <p class="cn_line">
         5.2
-        对本声明的修订将不会进行预先的通知或公告，修订结果只在尚融宝平台网站上进行公布，不另行通知会员个人。
+        对本声明的修订将不会进行预先的通知或公告，修订结果只在呗融通平台网站上进行公布，不另行通知会员个人。
       </p>
       <p class="cn_line">
         5.3 如您在本声明作出修订后，仍继续使用本网站，即视为您接受有关修订。

@@ -10,11 +10,11 @@
           style="line-height:34px;font-family:Microsoft YaHei;color:#0aaae1;font-size:24px;"
           >工作时间</span
         ><br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;客服热线: 400-000-0000<br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;客服热线: 888-888-8888<br />
         <span style="padding-left:20px;font-size:12px;color:#888;"
           >（上午 9:00--12：00 下午 14：00--17：30）</span
         ><br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意见、建议反馈邮箱：service@shangrongbao.com
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;意见、建议反馈邮箱：service@beirongtong.com
       </div>
       <div class="mt20 cn_line fl" style="width:50%;height:150px;">
         <span
@@ -22,8 +22,8 @@
           >商务合作部</span
         ><br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;负责人：余先生<br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联系电话：400-000-0000<br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子邮箱：yuzhirong@shangrongbao.com
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联系电话：888-888-8888<br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子邮箱：yuzhirong@beirongtong.com
       </div>
       <div class="mt20 cn_line fl" style="width:50%;height:150px;">
         <span
@@ -31,7 +31,7 @@
           >客户服务部</span
         ><br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;负责人：赵小姐 <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联系电话：400-000-0000 <br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联系电话：888-888-8888 <br />
       </div>
       <div class="mt20 cn_line fl" style="width:50%;height:150px;">
         <span
@@ -39,8 +39,8 @@
           >外联事务部</span
         ><br />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;负责人：林小姐 <br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联系电话：400-000-0000<br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子邮箱：linyingying@shangrongbao.com
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;联系电话：888-888-8888<br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子邮箱：linyingying@beirongtong.com
       </div>
       <p></p>
     </div>

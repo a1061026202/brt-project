@@ -1,4 +1,4 @@
-package com.atguigu.srb.rabbitUtil.service;
+package com.hyh.brt.rabbitUtil.service;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.core.AmqpTemplate;

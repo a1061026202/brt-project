@@ -1,8 +1,8 @@
 package com.hyh.brt.core.hfb;
 
 import com.alibaba.fastjson.JSONObject;
-import com.atguigu.common.util.HttpUtils;
-import com.atguigu.common.util.MD5;
+import com.hyh.common.util.HttpUtils;
+import com.hyh.common.util.MD5;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.Date;

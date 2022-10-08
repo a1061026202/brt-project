@@ -1,7 +1,0 @@
-2022-07-05 22:34:30 [INFO ] http-nio-8130-exec-4 fileServiceImp.java:39 com.atguigu.srb.oss.service.Imp.fileServiceImp buckName不存在,正在创建
-2022-07-05 22:34:31 [INFO ] http-nio-8130-exec-4 fileServiceImp.java:70 com.atguigu.srb.oss.service.Imp.fileServiceImp 结果: com.qcloud.cos.model.UploadResult@6e5713bb
-2022-07-05 22:58:54 [INFO ] http-nio-8130-exec-6 fileServiceImp.java:39 com.atguigu.srb.oss.service.Imp.fileServiceImp buckName不存在,正在创建
-2022-07-05 22:58:54 [INFO ] http-nio-8130-exec-6 fileServiceImp.java:70 com.atguigu.srb.oss.service.Imp.fileServiceImp 结果: com.qcloud.cos.model.UploadResult@48c8e996
-2022-07-05 22:59:08 [INFO ] http-nio-8130-exec-7 fileServiceImp.java:39 com.atguigu.srb.oss.service.Imp.fileServiceImp buckName不存在,正在创建
-2022-07-05 22:59:08 [INFO ] http-nio-8130-exec-7 fileServiceImp.java:70 com.atguigu.srb.oss.service.Imp.fileServiceImp 结果: com.qcloud.cos.model.UploadResult@76cdb838
-2022-07-05 22:59:11 [INFO ] http-nio-8130-exec-9 fileServiceImp.java:39 com.atguigu.srb.oss.service.Imp.fileServiceImp buckName不存在,正在创建

@@ -1,4 +1,4 @@
-package com.atguigu.srb.base.config;
+package com.hyh.brt.base.config;
 
 import feign.Logger;
 import org.springframework.context.annotation.Bean;

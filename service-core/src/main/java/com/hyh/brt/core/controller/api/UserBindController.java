@@ -2,8 +2,8 @@ package com.hyh.brt.core.controller.api;
 
 
 import com.alibaba.fastjson.JSON;
-import com.atguigu.common.result.R;
-import com.atguigu.srb.base.util.JwtUtils;
+import com.hyh.common.result.R;
+import com.hyh.brt.base.util.JwtUtils;
 import com.hyh.brt.core.hfb.RequestHelper;
 import com.hyh.brt.core.pojo.vo.UserBindVo;
 import com.hyh.brt.core.service.UserBindService;

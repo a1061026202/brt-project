@@ -72,7 +72,7 @@
           </el-form-item>
         </el-form>
         <el-alert
-          title="您提供的任何信息尚融宝都承诺予以保护，不会挪作他用。"
+          title="您提供的任何信息呗融通都承诺予以保护，不会挪作他用。"
           type="warning"
           :closable="false"
         >

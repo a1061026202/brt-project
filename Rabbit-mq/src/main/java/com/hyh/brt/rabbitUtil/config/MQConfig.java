@@ -1,4 +1,4 @@
-package com.atguigu.srb.rabbitUtil.config;
+package com.hyh.brt.rabbitUtil.config;
 
 import org.springframework.amqp.support.converter.Jackson2JsonMessageConverter;
 import org.springframework.amqp.support.converter.MessageConverter;

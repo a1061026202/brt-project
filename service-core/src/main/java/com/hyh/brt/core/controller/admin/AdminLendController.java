@@ -1,7 +1,7 @@
 package com.hyh.brt.core.controller.admin;
 
 
-import com.atguigu.common.result.R;
+import com.hyh.common.result.R;
 import com.hyh.brt.core.pojo.entity.Lend;
 import com.hyh.brt.core.service.LendService;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;

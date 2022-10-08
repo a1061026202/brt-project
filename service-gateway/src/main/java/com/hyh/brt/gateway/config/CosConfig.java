@@ -1,4 +1,4 @@
-package com.atguigu.srb.gateway.config;
+package com.hyh.brt.gateway.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,6 +1,6 @@
 package com.hyh.brt.core.controller.admin;
 
-import com.atguigu.common.result.R;
+import com.hyh.common.result.R;
 import com.hyh.brt.core.pojo.entity.BorrowInfo;
 import com.hyh.brt.core.pojo.vo.BorrowInfoApprovalVo;
 import com.hyh.brt.core.service.BorrowInfoService;

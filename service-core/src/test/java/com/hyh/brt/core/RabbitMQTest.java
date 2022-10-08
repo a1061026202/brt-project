@@ -1,8 +1,8 @@
 package com.hyh.brt.core;
 
-import com.atguigu.srb.base.dto.SmsDTO;
-import com.atguigu.srb.rabbitUtil.constant.MQConst;
-import com.atguigu.srb.rabbitUtil.service.MQService;
+import com.hyh.brt.base.dto.SmsDTO;
+import com.hyh.brt.rabbitUtil.constant.MQConst;
+import com.hyh.brt.rabbitUtil.service.MQService;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;

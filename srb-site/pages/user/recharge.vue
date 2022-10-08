@@ -26,7 +26,7 @@
                 <span class="bank-agree">
                   我同意并接受
                   <a href="#" target="_blank">
-                    《尚融宝投资咨询与管理服务电子协议》
+                    《呗融通投资咨询与管理服务电子协议》
                   </a>
                 </span>
               </div>

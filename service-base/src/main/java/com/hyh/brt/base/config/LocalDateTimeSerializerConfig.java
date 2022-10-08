@@ -1,4 +1,4 @@
-package com.atguigu.srb.base.config;
+package com.hyh.brt.base.config;
 
 import com.fasterxml.jackson.datatype.jsr310.ser.LocalDateTimeSerializer;
 import org.springframework.beans.factory.annotation.Value;

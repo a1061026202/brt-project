@@ -20,8 +20,8 @@
       </div>
     </div>
     <div class="ipubs">
-      <span class="o1">累计投资金额:<strong>1,047,288,128.79</strong>元</span>
-      <span class="o1">累计注册人数:<strong>20649</strong>人</span>
+      <span class="o1">累计投资金额:<strong>9,999,999,999.99</strong>元</span>
+      <span class="o1">累计注册人数:<strong>99999999</strong>人</span>
     </div>
     <div class="feature">
       <a class="fea1" href="#">

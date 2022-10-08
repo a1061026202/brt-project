@@ -1,7 +1,0 @@
-2022-06-30 21:59:42 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 3.568 seconds (JVM running for 5.564)
-2022-06-30 21:59:50 [INFO ] http-nio-8130-exec-1 fileServiceImp.java:99 com.atguigu.srb.oss.service.Imp.fileServiceImp key: test/2022/06/30/c4a2a93f-1c31-435c-b364-d166ec37ab54.jpg
-2022-07-03 22:28:04 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev
-2022-07-03 22:28:18 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 23.303 seconds (JVM running for 26.811)
-2022-07-04 21:35:35 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev
-2022-07-04 21:36:03 [INFO ] main StartupInfoLogger.java:61 com.atguigu.srb.oss.ServiceOssApplication Started ServiceOssApplication in 38.101 seconds (JVM running for 43.483)
-2022-07-04 22:24:29 [INFO ] main SpringApplication.java:655 com.atguigu.srb.oss.ServiceOssApplication The following profiles are active: dev

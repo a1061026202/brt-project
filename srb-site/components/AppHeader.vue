@@ -3,7 +3,7 @@
     <div class="header-top min-width">
       <div class="container fn-clear">
         <strong class="fn-left">
-          咨询热线：400-000-0000
+          咨询热线：888-888-8888
           <span class="s-time">服务时间：9:00 - 18:00</span>
         </strong>
         <ul class="header_contact">

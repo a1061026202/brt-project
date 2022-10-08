@@ -1,4 +1,4 @@
-package com.atguigu.srb.oss.service;
+package com.hyh.brt.oss.service;
 
 import java.io.InputStream;
 
